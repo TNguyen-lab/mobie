@@ -1,0 +1,20 @@
+export const colors = {
+  primary: '#1a9a4a',
+  headerBg: '#31709d',
+  background: '#f5f5f5',
+  cardBg: '#ffffff',
+  text: '#333333',
+  textSecondary: '#666666',
+  border: '#e0e0e0',
+  white: '#ffffff',
+  danger: '#ff4d4f',
+  warning: '#faad14',
+  success: '#52c41a',
+  info: '#1890ff',
+  statusColors: {
+    pending: '#faad14',
+    processing: '#1890ff',
+    done: '#52c41a',
+    cancelled: '#ff4d4f',
+  },
+};
