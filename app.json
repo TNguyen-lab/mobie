@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobie-app",
-    "slug": "mobie-app",
+    "name": "MobiE",
+    "slug": "mobie",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
